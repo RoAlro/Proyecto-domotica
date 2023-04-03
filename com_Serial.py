@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  4 21:09:51 2019
 
-@author: PC-13
+@author:Aldo Acosta
 """
 import serial
 import time
